@@ -1,0 +1,6 @@
+{
+  "name": "DevQuest",
+  "description": "Learn coding and GitHub through gamified lessons, anime memes, mini-games, coding duels, an AI Sensei tutor, and focus study beats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
